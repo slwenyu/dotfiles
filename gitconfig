@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sleewenyu@gmail.com
+	name = shaun lee
